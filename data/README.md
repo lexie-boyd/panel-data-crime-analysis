@@ -1,4 +1,4 @@
-# Metadata Guide – Group 21
+# Metadata Guide 
 
 
 
