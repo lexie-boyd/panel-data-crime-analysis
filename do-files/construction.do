@@ -5,11 +5,11 @@
 */
 
 // Set up the working directory
-// Define a global macro for the root directory to ensure all file paths are correctly referenced.
-cd"/Users/alyssawhitt/Library/CloudStorage/OneDrive-UniversityofVirginia/Group 21-ECON3720-Project/Replication Documentation/Command Files"
+// Define a global macro for the root directory to ensure all file paths are correctly referenced. Will need to update for your personal desktop.
+cd"/***/Group 21-ECON3720-Project/Replication Documentation/Command Files"
 
 *Bring in our original base.dta set users would have to change this based on their username and where they saved this base.dta file 
-use "/Users/alyssawhitt/Library/CloudStorage/OneDrive-UniversityofVirginia/Group 21-ECON3720-Project/Original Data/base.dta"
+use "/***/Group 21-ECON3720-Project/Original Data/base.dta"
 
 *Drop the District of Columbia frrom the list of states, we are only interested in the 50 States
 drop if State=="DistrictofColumbia"
