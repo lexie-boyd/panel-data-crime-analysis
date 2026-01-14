@@ -6,8 +6,8 @@
 */
 
 // Set up the working directory
-// Define a global macro for the root directory to ensure all file paths are correctly referenced.
-cd"/Users/alyssawhitt/Library/CloudStorage/OneDrive-UniversityofVirginia/Group 21-ECON3720-Project/Original Data"
+// Define a global macro for the root directory to ensure all file paths are correctly referenced. Will need to make it work with your desktop.
+cd"/***/Group 21-ECON3720-Project/Original Data"
  
 
 
