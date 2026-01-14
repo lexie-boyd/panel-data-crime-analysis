@@ -1,5 +1,5 @@
 # A Socioeconomic Analysis on the Impact of Marriage Rates on Crime (US 2014-2018)
-## Testing the hypothesis that higher marriage rates will decrease crime rates in the US using econometric methods in STATA
+## Testing the hypothesis that higher marriage rates will decrease crime rates in the US using econometric methods in Stata
 ### Due to a decrease in available time and a family to think about, crime will decrease with increasing marriage rates-- similarily to what the US has seen with increasing educational attainment, increasing income, and decreasing unemployment
 
 ### Data: FBI Crime data and US Census Bureau. A metaguide is provided to access the data. 
